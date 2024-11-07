@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasanth</h1>
-<h3 align="center">Aspiring Full Stack Developer & Software Programmer I'm a passionate software developer with a strong foundation in both front-end and back-end development. I enjoy creating websites, web apps, and mobile applications, leveraging frameworks and tools such as Vue.js, Django, JavaScript, and MySQL. With experience in both development and troubleshooting, I'm always eager to learn new technologies and apply data-driven insights to enhance user experiences.</h3>
+<h3 align="center">Aspiring Full Stack Developer & Software Programmer.</h3>
 
 - 📫 How to reach me **vasanthsanjee@gmail.com**
 
