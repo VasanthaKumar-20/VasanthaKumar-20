@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasanth</h1>
+<h1 align="center">Hi👋, I'm Vasanth</h1>
 <h3 align="center">Aspiring Full Stack Developer & Software Programmer. </h3>
 
 - 📫 How to reach me **vasanthsanjee@gmail.com**
